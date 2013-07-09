@@ -1,4 +1,6 @@
-The **[SATToSE2013](http://sattose.org/sattose2013) Hackathon** will take place as a part of the Sixth Seminar in a Series on Advanced Techniques & Tools for Software Evolution, in Bern (Switzerland) on 8-10 July 2013.
+The **[SATToSE2013](http://sattose.org/sattose2013) Hackathon** took place as a part of the Sixth Seminar in a Series on Advanced Techniques & Tools for Software Evolution, in Bern (Switzerland) on 8-10 July 2013.
+![Hackers hacking (photo taken by Erwann Wernli)](https://raw.github.com/SATToSE/SATToSE2013/master/hackers-hacking-by-wrnli.jpg)
+_([photo](http://instagram.com/p/bhDK1vw2c7/) taken by Erwann Wernli aka [@wrnli](http://twitter.com/wrnli))_
 
 There are [three](http://en.wikipedia.org/wiki/Hendiatris) core components to the hackathon: the tool, the evolution topic and the repository to focus on.
 
